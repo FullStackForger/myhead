@@ -1,0 +1,27 @@
+{
+  "name": "myhead",
+  "version": "1.0.0",
+  "description": "Markdown YML Header",
+  "main": "lib/myhead.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indieforger/myhead.git"
+  },
+  "keywords": [
+    "myhead",
+    "yml",
+    "markdown",
+    "header",
+    "md",
+    "assimilator"
+  ],
+  "author": "https://github.com/indieforger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indieforger/myhead/issues"
+  },
+  "homepage": "https://github.com/indieforger/myhead#readme"
+}
