@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "directories": {
+    "lib": "./lib"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/indieforger/myhead.git"
@@ -23,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/indieforger/myhead/issues"
   },
-  "homepage": "https://github.com/indieforger/myhead#readme"
+  "homepage": "https://github.com/indieforger/myhead#readme",
+  "dependencies": {
+    "yamljs": "^0.2.4"
+  }
 }
