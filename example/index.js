@@ -15,5 +15,6 @@ myhead
   }).then((yml) => {
     console.log(yml)
   }).catch((err) => {
+    console.log('--------error-------')
     console.log(err)
   })
